@@ -66,7 +66,7 @@ var NotificationControl = class Control extends React.Component {
           message: "Success!"
         });
         setTimeout(function () {
-          document.getElementById("title-field-" + (id - 5)).value = "";
+          document.getElementById("title-field-" + (id - 6)).value = "";
           history.push('/collections/notification');
         }, 3000)
       })
