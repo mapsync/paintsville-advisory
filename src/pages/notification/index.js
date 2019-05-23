@@ -69,6 +69,12 @@ import Layout from '../../components/Layout'
             </div>
           </div>
           <div className="field">
+            <label className="label" htmlFor={"delivery"}>delivery</label>
+            <div className="control">
+              <input className="input" type={"text"} name={"delivery"} onChange={this.handleChange} id={"delivery"} required={true} />
+            </div>
+          </div>
+          <div className="field">
             <label className="label" htmlFor={"priority"}>priority</label>
             <div className="control">
               <input className="input" type={"text"} name={"priority"} onChange={this.handleChange} id={"priority"} required={true} />
