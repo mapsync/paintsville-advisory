@@ -38,17 +38,18 @@ var NotificationControl = class Control extends React.Component {
       disabled: true
     });
     var link = document.getElementById("link-field-" + (id - 1)).value;
-    if (link.startsWith("https://stanfordwater.geosync.cloud")) {
+    if (link.startsWith("https://paintsvilleutilities.geosync.cloud")) {
       var url = new URL(link);
-      link = "https://hardcore-sammet-6f1a1f.netlify.com" + url.pathname + url.search
+      link = "https://gallant-jackson-42fe46.netlify.com" + url.pathname + url.search
     }
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
         "form-name": "notification",
-        "account": "stanfordwater",
-        "title": document.getElementById("title-field-" + (id - 5)).value,
+        "account": "paintsvilleutilities",
+        "title": document.getElementById("title-field-" + (id - 6)).value,
+        "delivery": document.getElementById("title-field-" + (id - 5)).value,
         "priority": document.getElementById("priority-field-" + (id - 4)).getAttribute("aria-checked"),
         "sound": document.getElementById("sound-field-" + (id - 3)).getAttribute("aria-checked"),
         "message": document.getElementById("message-field-" + (id - 2)).value,

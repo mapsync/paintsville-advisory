@@ -9,7 +9,7 @@ const Navbar = class extends React.Component {
      <div>
        <div className="tab-menu-container show-xs">
         <div className="tab-menu">
-          <div className="client-name">Stanford Water<span>works</span></div>
+          <div className="client-name">Paintsville Utilities</div>
           <div className="btn-group btn-group-block">
             <Link className="btn pt-2" activeClassName="active" to="/">
               <Icon.AlertTriangle size={26}/>
@@ -26,7 +26,7 @@ const Navbar = class extends React.Component {
               <Icon.Phone size={26}/>
               <div>Contact</div>
             </Link>
-            <a className="btn pt-2" rel="noopener noreferrer" href="https://pay.streampay.streamlinepayments.com/#/9NS6AkFfIT8dLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/BbhCLaUyDkUdLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/pay" target="_blank">
+            <a className="btn pt-2" rel="noopener noreferrer" href="https://paintsvilleutilities.epayub.com" target="_blank">
               <Icon.DollarSign size={26}/>
               <div>Bill Pay</div>
             </a>
@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
         </div>
       </div>
       <div className="container grid-xs hide-xs">
-        <div className="client-name">Stanford Water<span>works</span></div>
+        <div className="client-name">Paintsville Utilities</div>
         <header className="navbar">
           <section className="navbar-section text-right">
             <Link className="btn btn-link" activeClassName="active" to="/">
@@ -53,7 +53,7 @@ const Navbar = class extends React.Component {
             <Link className="btn btn-link" activeClassName="active" to="/contact">
               Contact
             </Link>
-            <a className="btn btn-link" rel="noopener noreferrer" href="https://pay.streampay.streamlinepayments.com/#/9NS6AkFfIT8dLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/BbhCLaUyDkUdLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/pay" target="_blank">
+            <a className="btn btn-link" rel="noopener noreferrer" href="https://paintsvilleutilities.epayub.com" target="_blank">
               Bill Pay&nbsp;<Icon.ExternalLink size={16}/>
             </a>
           </section>

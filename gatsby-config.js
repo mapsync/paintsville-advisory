@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'SWW Advisory',
-    description: 'Advisory site for Stanford Water Works',
+    title: 'PU Advisory',
+    description: 'Advisory site for Paintsville Utilities',
   },
   plugins: [
     {
