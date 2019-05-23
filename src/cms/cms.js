@@ -42,6 +42,11 @@ var NotificationControl = class Control extends React.Component {
       var url = new URL(link);
       link = "https://gallant-jackson-42fe46.netlify.com" + url.pathname + url.search
     }
+    var delivery = new Date().toISOString();
+    var date = new Date(document.getElementById("delivery-field-" + (id - 5)).value);
+    if (date) {
+      delivery = date.toISOString();
+    }
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -49,7 +54,7 @@ var NotificationControl = class Control extends React.Component {
         "form-name": "notification",
         "account": "paintsvilleutilities",
         "title": document.getElementById("title-field-" + (id - 6)).value,
-        "delivery": document.getElementById("title-field-" + (id - 5)).value,
+        "delivery": delivery,
         "priority": document.getElementById("priority-field-" + (id - 4)).getAttribute("aria-checked"),
         "sound": document.getElementById("sound-field-" + (id - 3)).getAttribute("aria-checked"),
         "message": document.getElementById("message-field-" + (id - 2)).value,
