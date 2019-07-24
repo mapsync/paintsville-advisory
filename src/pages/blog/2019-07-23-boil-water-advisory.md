@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY TEMPLATE
 date: 2019-07-23T16:17:08.380Z
 draft: true
 description: WATER LINE BREAK
