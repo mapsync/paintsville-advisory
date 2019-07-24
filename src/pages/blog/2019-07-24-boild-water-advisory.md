@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: BOILD WATER ADVISORY
+title: 'BOIL WATER ADVISORY '
 date: 2019-07-24T18:49:53.796Z
 ---
 **BOIL WATER ADVISORY**
