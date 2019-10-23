@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Public Notice - Smoke Test
-date: 2019-10-23T15:31:02.683Z
+title: PUBLIC NOTICE - SMOKE TEST
+date: 2019-10-23T15:54:27.069Z
 ---
 Public Notice
 
