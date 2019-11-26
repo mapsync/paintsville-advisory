@@ -5,7 +5,7 @@ date: 2019-11-26T12:55:51.231Z
 ---
 DUE TO A LINE BREAK, ALTHOUGH NO CONTAMINATION HAS BEEN CONFIRMED, PAINTSVILLE UTILITIES HAS VOLUNTARILY ISSUED A BOIL WATER ADVISORY FOR THE FOLLOWING AREAS:
 
-Beginning at the mouth of Hall BR to Laurel Creek, with all roads and hollows between.
+Beginning at the mouth of Hall BR to Laurel Creek, with all roads and hollows between, in the Flat Gap area.
 
 THIS ADVISORY IS BEING ISSUED AS A PRECAUTIONARY MEASURE AND IS IN EFFECT UNTIL FURTHER NOTICE.
 
