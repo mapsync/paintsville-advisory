@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: 'BOIL WATER LIFTED '
-date: 2020-02-26T17:33:06.089Z
+title: 'Boil Water Lifted '
+date: 2020-02-26T17:35:26.171Z
+description: ''
 ---
-The boil water advisory has been lifted for Wiley Branch from U.S 23 to Oakley Ward Hollow and including all hollows and side road in between.
+Boil water advisory has been lifted for KY RT 40W from Kestner's Body Shop up to and including Hurricane Branch.
