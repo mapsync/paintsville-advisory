@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
 title: Boil Water Advisory
-date: 2020-04-12T21:56:37.307Z
+date: 2020-04-12T22:19:18.430Z
 ---
-BOIL WATER ADVISORY
+BOIL WATER ADVISORY  
 
 April 12, 2020
 
-Due to a power outage at the pump station, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for our customers on RT 40 East from the bottom of Spicy Mountain to the top of the hill, including Spring Knob and Bart Branch.
+DUE TO A LINE BREAK, ALTHOUGH NO CONTAMINATION HAS BEEN CONFIRMED, PAINTSVILLE UTILITIES HAS VOLUNTARILY ISSUED A BOIL WATER ADVISORY FOR THE FOLLOWING AREAS:
+
+Beginning on Second Street in Paintsville from Euclid Avenue to College 
 
 THIS ADVISORY IS BEING ISSUED AS A PRECAUTIONARY MEASURE AND IS IN EFFECT UNTIL FURTHER NOTICE.
 
